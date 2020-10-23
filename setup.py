@@ -2,7 +2,7 @@
 
 from distutils.core import setup
 
-setup(name='Air',
+setup(name='meteolab',
       version='1.0',
       description='Python Module Example',
       author='MeteoLab',
